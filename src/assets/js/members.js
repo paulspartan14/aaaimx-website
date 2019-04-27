@@ -98,7 +98,7 @@ const founders = [
 ]
 const panel = [
   {
-    name: 'Dr. Mauricio G. Orozco del Castillo',
+    name: 'Dr. Mauricio G. Orozco-del-Castillo',
     description: 'Chair / ITM Researcher',
     avatar: 'static/img/team/board/dr-mauricio-orozco.jpg',
     social: {
@@ -106,7 +106,7 @@ const panel = [
     }
   },
   {
-    name: 'Dr. Juan Carlos Valdiviezo Navarro',
+    name: 'Dr. Juan Carlos Valdiviezo-Navarro',
     description: 'Co-Chair / CentroGeo Researcher',
     avatar: 'static/img/team/board/dr-juan-carlos.jpg',
     social: {
@@ -114,7 +114,7 @@ const panel = [
     }
   },
   {
-    name: 'Dr. Joel A. Trejo Sánchez',
+    name: 'Dr. Joel A. Trejo-Sánchez',
     description: 'Secretary / CIMAT Researcher',
     avatar: 'static/img/team/board/dr-joel-trejo.jpg',
     social: {
